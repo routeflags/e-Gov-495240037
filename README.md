@@ -9,6 +9,11 @@
 ## 案件番号 	
 495240037
 
+## 根拠法令条項
+- [●大麻取締法及び麻薬及び向精神薬取締法の一部を改正する法律案](https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/houan/g21209007.htm)
+- [大麻取締法及び麻薬及び向精神薬取締法の一部を改正する法律案：参議院](https://www.sangiin.go.jp/japanese/joho1/kousei/gian/212/meisai/m212080212007.htm)
+- [「大麻取締法及び麻薬及び向精神薬取締法の一部を改正する法律」の公布について](https://www.mhlw.go.jp/hourei/doc/tsuchi/T231215I0010.pdf)
+
 ## 行政手続法に基づく手続か 	
 任意の意見募集
 
